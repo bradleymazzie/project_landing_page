@@ -7,13 +7,7 @@ body{
     flex-direction: column;
 }
 
-div{
-    /* border: solid black; */
-    
-}
-
 .header {
-    /* border: solid black; */
     background-color: #1F2937;
     font-size: 24px;
     color: #F9FAF8;
@@ -22,11 +16,9 @@ div{
     align-items: center;
     font-weight: 500;
     padding: 20px 100px;
-    /* height: 1px; */
 }
 
 .links{
-    /* border: solid black; */
     display: flex;
     gap: 50px;
     align-items: center;
@@ -34,14 +26,12 @@ div{
 }
 
 a{
-    /* border: solid black; */
     text-decoration: none;
     font-size: 18px;
     color: #E5E7EB;
 }
 
 .footer{
-    /* border: solid black; */
     display: flex;
     justify-content: center;
     background-color: #1F2937;
@@ -49,8 +39,6 @@ a{
     font-size: 16px;
     padding: 30px 0px;
 }
-
-
 
 button{
     background-color: #3882F6;
@@ -60,17 +48,14 @@ button{
     width: 110px;
     height: 35px;
     font-size: 16px;
-    /* border: solid black; */
 }
 
 .hero_block{
-    /* border: solid black; */
     background-color: #1F2937;
     padding: 100px 100px;
 }
 
 .hero{
-    /* border: solid black; */
     display: flex;
     background-color: #1F2937;
     gap: 50px;
@@ -78,27 +63,23 @@ button{
 }
 
 .hero_left{
-    /* border: solid black; */
     display: flex;
     flex-direction: column;
     gap: 10px;
 }
 
 .hero_main_text{
-    /* border: solid black; */
     font-size: 48px;
     font-weight: 900;
     color: #F9FAF8;
 }
 .hero_secondary_text{
-    /* border: solid black; */
     font-size: 18px;
     color: #E5E7EB;
     padding: 0 0 5px 0;
 }
 
 img{
-    /* border: solid black; */
     height: 450px;
     width: 870px;
     background-color: rgb(115, 116, 122);
@@ -109,7 +90,6 @@ img{
 }
 
 .card_header{
-    /* border: solid black; */
     display: flex;
     justify-content: center;
     align-content: center;
@@ -120,7 +100,6 @@ img{
 }
 
 .card_block{
-    /* border: solid black; */
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -136,7 +115,6 @@ img{
 }
 
 .card{
-    /* border: solid black; */
     border: 5px solid #3882F6;
     border-radius: 20px;
     box-shadow: 2px 4px 16px rgba(0,0,0,.06);
@@ -202,7 +180,6 @@ img{
     color: #F9FAF8;
     width: 900px;
     height: 100px;
-    /* gap: 100px; */
 }
 
 .call_to_action_left{
